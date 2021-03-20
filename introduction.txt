@@ -1,0 +1,7 @@
+Hello, my name is Reno Febriano, 
+I am 14 years old, and I live in Indonesia
+
+This year that I will do 
+-Learn Javascript 
+-Increasing Css and Html 
+-Create a simple portfolio website
